@@ -1,0 +1,6 @@
+/* styles.css file to style the <p> */
+p {
+    text-align: center;  /* Centers the text */
+    color: darkred;  /* Sets the text color to dark red */
+    font-size: 18px;  /* Adjusts text size */
+}
